@@ -1,4 +1,4 @@
-/* Capitalise the first letter of every work of a sentence */
+/* Capitalise the first letter of every word of a sentence */
 
 //Using for loop
 function capitaliseLetters(str) {

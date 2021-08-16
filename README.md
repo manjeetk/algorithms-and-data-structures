@@ -10,4 +10,4 @@ Once Node.js is installed, individual scripts can be executed by running:
 * Reverse a String
 * Validate a palindrome
     * A palindrome is a word, number, phrase, or other sequence of characters which reads the same backward as forward, such as madam or racecar.
-* Capitalise the first letter of every work of a sentence
+* Capitalise the first letter of every word of a sentence
