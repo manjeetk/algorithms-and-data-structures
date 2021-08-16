@@ -21,3 +21,11 @@ function capitaliseLettersMap(str) {
 }
 
 console.log(capitaliseLettersMap("this is a great exercise")) //This Is A Great Exercise!
+
+
+//Using regex
+function capitaliseLettersRegex(str) {
+    return str.replace(/\b[a-z]/gi, char => char.toUpperCase());       
+}
+
+console.log(capitaliseLettersRegex("this is a great exercise")) //This Is A Great Exercise!
