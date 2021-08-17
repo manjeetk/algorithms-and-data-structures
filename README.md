@@ -12,3 +12,4 @@ Once Node.js is installed, individual scripts can be executed by running:
     * A palindrome is a word, number, phrase, or other sequence of characters which reads the same backward as forward, such as madam or racecar.
 * Capitalise the first letter of every word of a sentence
 * Find most common character in a string
+* FizzBuzz test
