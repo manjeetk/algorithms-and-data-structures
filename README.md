@@ -13,3 +13,4 @@ Once Node.js is installed, individual scripts can be executed by running:
 * Capitalise the first letter of every word of a sentence
 * Find most common character in a string
 * FizzBuzz test
+* Length of longest word in a string
