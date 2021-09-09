@@ -14,3 +14,7 @@ Once Node.js is installed, individual scripts can be executed by running:
 * Find most common character in a string
 * FizzBuzz test
 * Length of longest word in a string
+* Anargam
+  * An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once. 
+  * For example,    "Listen" = "Silent", "evil" = "vile", "restful" = "fluster"
+ 
