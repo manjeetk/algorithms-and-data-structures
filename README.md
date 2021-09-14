@@ -17,4 +17,5 @@ Once Node.js is installed, individual scripts can be executed by running:
 * Anargam
   * An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once. 
   * For example,    "Listen" = "Silent", "evil" = "vile", "restful" = "fluster"
- 
+* Generate all combinations of a string
+* Generate all combinations of an array
