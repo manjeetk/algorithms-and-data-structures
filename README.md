@@ -19,3 +19,5 @@ Once Node.js is installed, individual scripts can be executed by running:
   * For example,    "Listen" = "Silent", "evil" = "vile", "restful" = "fluster"
 * Generate all combinations of a string
 * Generate all combinations of an array
+* Add all numbers entered as function parameters
+* Even and odd numbers sum from an array
